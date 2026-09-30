@@ -1,0 +1,860 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Duck Hunt Remix Graphic Organizer)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 792 612 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F2-1 11 0 R
+/F3 12 0 R
+/F3-0 13 0 R
+/F3-1 14 0 R
+/F4 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 14300
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.12549 .211765 .294118 rg
+n 0 549 792 63 re f*
+1 1 1 rg
+BT /F2 22 Tf 26.4 TL ET
+BT 1 0 0 1 34 583 Tm (Duck Hunt Remix) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 36 565 Tm (How the objects work together - use this while you code) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 658.872 587 Tm (Student graphic organizer) Tj T* ET
+BT 1 0 0 1 597.888 570 Tm (Name: ______________________________) Tj T* ET
+1 .945098 .898039 rg
+.85098 .466667 .156863 RG
+n
+41 512 m
+751 512 l
+754.8696 512 758 515.1304 758 519 c
+758 530 l
+758 533.8696 754.8696 537 751 537 c
+41 537 l
+37.1304 537 34 533.8696 34 530 c
+34 519 l
+34 515.1304 37.1304 512 41 512 c
+h
+B*
+.14902 .196078 .219608 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 45 522 Tm (My theme:) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 93 522 Tm (____________________________) Tj T* ET
+BT 1 0 0 1 265 522 Tm (My target:) Tj T* ET
+BT 1 0 0 1 315 522 Tm (____________________________) Tj T* ET
+BT 1 0 0 1 485 522 Tm (My Dog:) Tj T* ET
+BT 1 0 0 1 530 522 Tm (____________________________) Tj T* ET
+.917647 .952941 .980392 rg
+.231373 .454902 .658824 RG
+1.3 w
+n
+44 330 m
+234 330 l
+239.528 330 244 334.472 244 340 c
+244 452 l
+244 457.528 239.528 462 234 462 c
+44 462 l
+38.472 462 34 457.528 34 452 c
+34 340 l
+34 334.472 38.472 330 44 330 c
+h
+B*
+.231373 .454902 .658824 rg
+n
+44 434 m
+234 434 l
+239.528 434 244 438.472 244 444 c
+244 452 l
+244 457.528 239.528 462 234 462 c
+44 462 l
+38.472 462 34 457.528 34 452 c
+34 444 l
+34 438.472 38.472 434 44 434 c
+h
+f*
+n 34 434 210 14 re f*
+1 1 1 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 46 444 Tm (Frame) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 177.1992 445 Tm (STUDENT CODE) Tj T* ET
+q
+1 0 0 1 46 411.5 cm
+q
+.356863 .419608 .45098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.2 Tf 8.5 TL (YOU DECLARE OBJECTS HERE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 400.5 cm
+q
+.12549 .211765 .294118 rg
+BT 1 0 0 1 0 1.9 Tm /F3 7.1 Tf 9 TL (Duck duck1 = new Duck\(...\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 389.5 cm
+q
+.12549 .211765 .294118 rg
+BT 1 0 0 1 0 1.9 Tm /F3 7.1 Tf 9 TL (world.addDuck\(duck1\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 367.1 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 12 Tm /F1 8.4 Tf 10.2 TL (Frame also starts the timer. It tells the world to) Tj T* (update and draw.) Tj T* ET
+Q
+Q
+.917647 .968627 .960784 rg
+.239216 .560784 .541176 RG
+1.3 w
+n
+298 330 m
+488 330 l
+493.528 330 498 334.472 498 340 c
+498 452 l
+498 457.528 493.528 462 488 462 c
+298 462 l
+292.472 462 288 457.528 288 452 c
+288 340 l
+288 334.472 292.472 330 298 330 c
+h
+B*
+.239216 .560784 .541176 rg
+n
+298 434 m
+488 434 l
+493.528 434 498 438.472 498 444 c
+498 452 l
+498 457.528 493.528 462 488 462 c
+298 462 l
+292.472 462 288 457.528 288 452 c
+288 444 l
+288 438.472 292.472 434 298 434 c
+h
+f*
+n 288 434 210 14 re f*
+1 1 1 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 300 444 Tm (GameWorld) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 440.4008 445 Tm (FRAMEWORK) Tj T* ET
+q
+1 0 0 1 300 411.5 cm
+q
+.356863 .419608 .45098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.2 Tf 8.5 TL (THE WORLD MANAGES OBJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300 399.3 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 1.8 Tm /F1 8.4 Tf 10.2 TL (Stores Ducks and scenery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300 388.3 cm
+q
+.12549 .211765 .294118 rg
+BT 1 0 0 1 0 1.9 Tm /F3 7.1 Tf 9 TL (for each Duck: update\(\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300 377.3 cm
+q
+.12549 .211765 .294118 rg
+BT 1 0 0 1 0 1.9 Tm /F3 7.1 Tf 9 TL (for each Duck: paint\(g\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300 354.9 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 12 Tm /F1 8.4 Tf 10.2 TL (Paint order: Background -> Tree / Bush ->) Tj T* (Foreground -> objects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300 342.7 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 1.8 Tm /F1 8.4 Tf 10.2 TL (Coordinates stars, progression, and the Dog.) Tj T* ET
+Q
+Q
+1 .945098 .898039 rg
+.85098 .466667 .156863 RG
+1.3 w
+n
+555 398 m
+748 398 l
+753.528 398 758 402.472 758 408 c
+758 452 l
+758 457.528 753.528 462 748 462 c
+555 462 l
+549.472 462 545 457.528 545 452 c
+545 408 l
+545 402.472 549.472 398 555 398 c
+h
+B*
+.85098 .466667 .156863 rg
+n
+555 434 m
+748 434 l
+753.528 434 758 438.472 758 444 c
+758 452 l
+758 457.528 753.528 462 748 462 c
+555 462 l
+549.472 462 545 457.528 545 452 c
+545 444 l
+545 438.472 549.472 434 555 434 c
+h
+f*
+n 545 434 213 14 re f*
+1 1 1 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 557 444 Tm (Duck) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 691.1992 445 Tm (STUDENT CODE) Tj T* ET
+q
+1 0 0 1 557 409.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 1.8 Tm /F1 8.4 Tf 10.2 TL (Moves -> bounces -> falls -> resets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 557 398.8 cm
+q
+.12549 .211765 .294118 rg
+BT 1 0 0 1 0 1.9 Tm /F3 7.1 Tf 9 TL (update\(\) startFalling\(\)) Tj T* ET
+Q
+Q
+.945098 .933333 .980392 rg
+.419608 .360784 .647059 RG
+1.3 w
+n
+555 322 m
+748 322 l
+753.528 322 758 326.472 758 332 c
+758 376 l
+758 381.528 753.528 386 748 386 c
+555 386 l
+549.472 386 545 381.528 545 376 c
+545 332 l
+545 326.472 549.472 322 555 322 c
+h
+B*
+.419608 .360784 .647059 rg
+n
+555 358 m
+748 358 l
+753.528 358 758 362.472 758 368 c
+758 376 l
+758 381.528 753.528 386 748 386 c
+555 386 l
+549.472 386 545 381.528 545 376 c
+545 368 l
+545 362.472 549.472 358 555 358 c
+h
+f*
+n 545 358 213 14 re f*
+1 1 1 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 557 368 Tm (Dog) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 691.1992 369 Tm (STUDENT CODE) Tj T* ET
+q
+1 0 0 1 557 333.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 1.8 Tm /F1 8.4 Tf 10.2 TL (Moves toward the fallen Duck) Tj T* ET
+Q
+Q
+q
+1 0 0 1 557 322.8 cm
+q
+.12549 .211765 .294118 rg
+BT 1 0 0 1 0 1.9 Tm /F3 7.1 Tf 9 TL (update\(\) -> retrievedDuck) Tj T* ET
+Q
+Q
+.231373 .454902 .658824 RG
+.231373 .454902 .658824 rg
+1.6 w
+n 252 396 m 280 396 l S
+n 280 396 m 274.5973 398.6098 l 274.5973 393.3902 l h
+f*
+.239216 .560784 .541176 RG
+.239216 .560784 .541176 rg
+1.6 w
+n 506 416 m 537 430 l S
+n 537 430 m 531.002 430.1548 l 533.1503 425.3978 l h
+f*
+.419608 .360784 .647059 RG
+.419608 .360784 .647059 rg
+1.6 w
+n 506 374 m 537 358 l S
+n 537 358 m 533.396 362.797 l 531.0021 358.1588 l h
+f*
+.356863 .419608 .45098 rg
+BT /F4 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 258.1952 389 Tm (adds) Tj T* ET
+BT 1 0 0 1 509.5876 433 Tm (updates / draws) Tj T* ET
+BT 1 0 0 1 516.3916 359 Tm (coordinates) Tj T* ET
+.12549 .211765 .294118 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 34 292 Tm (GAME SEQUENCE) Tj T* ET
+.356863 .419608 .45098 rg
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 130 292 Tm (Follow the story when you test your code) Tj T* ET
+.231373 .454902 .658824 rg
+n
+79 260 m
+79 267.1797 73.1797 273 66 273 c
+58.8203 273 53 267.1797 53 260 c
+53 252.8203 58.8203 247 66 247 c
+73.1797 247 79 252.8203 79 260 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 63.22 256.5 Tm (1) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 40.9103 231 Tm (Frame creates) Tj T* ET
+.788235 .827451 .847059 RG
+.788235 .827451 .847059 rg
+1.6 w
+n 83 260 m 157 260 l S
+n 157 260 m 151.5973 262.6098 l 151.5973 257.3902 l h
+f*
+.239216 .560784 .541176 rg
+n
+187 260 m
+187 267.1797 181.1797 273 174 273 c
+166.8203 273 161 267.1797 161 260 c
+161 252.8203 166.8203 247 174 247 c
+181.1797 247 187 252.8203 187 260 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 171.22 256.5 Tm (2) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 146.6533 231 Tm (World activates) Tj T* ET
+.788235 .827451 .847059 RG
+.788235 .827451 .847059 rg
+1.6 w
+n 191 260 m 265 260 l S
+n 265 260 m 259.5973 262.6098 l 259.5973 257.3902 l h
+f*
+.85098 .466667 .156863 rg
+n
+295 260 m
+295 267.1797 289.1797 273 282 273 c
+274.8203 273 269 267.1797 269 260 c
+269 252.8203 274.8203 247 282 247 c
+289.1797 247 295 252.8203 295 260 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 279.22 256.5 Tm (3) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 260.2033 231 Tm (Duck moves) Tj T* ET
+.788235 .827451 .847059 RG
+.788235 .827451 .847059 rg
+1.6 w
+n 299 260 m 373 260 l S
+n 373 260 m 367.5973 262.6098 l 367.5973 257.3902 l h
+f*
+.419608 .360784 .647059 rg
+n
+403 260 m
+403 267.1797 397.1797 273 390 273 c
+382.8203 273 377 267.1797 377 260 c
+377 252.8203 382.8203 247 390 247 c
+397.1797 247 403 252.8203 403 260 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 387.22 256.5 Tm (4) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 367.578 231 Tm (Player clicks) Tj T* ET
+.788235 .827451 .847059 RG
+.788235 .827451 .847059 rg
+1.6 w
+n 407 260 m 481 260 l S
+n 481 260 m 475.5973 262.6098 l 475.5973 257.3902 l h
+f*
+.85098 .466667 .156863 rg
+n
+511 260 m
+511 267.1797 505.1797 273 498 273 c
+490.8203 273 485 267.1797 485 260 c
+485 252.8203 490.8203 247 498 247 c
+505.1797 247 511 252.8203 511 260 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 495.22 256.5 Tm (5) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 480.5212 231 Tm (Duck falls) Tj T* ET
+.788235 .827451 .847059 RG
+.788235 .827451 .847059 rg
+1.6 w
+n 515 260 m 589 260 l S
+n 589 260 m 583.5973 262.6098 l 583.5973 257.3902 l h
+f*
+.419608 .360784 .647059 rg
+n
+619 260 m
+619 267.1797 613.1797 273 606 273 c
+598.8203 273 593 267.1797 593 260 c
+593 252.8203 598.8203 247 606 247 c
+613.1797 247 619 252.8203 619 260 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 603.22 256.5 Tm (6) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 582.3533 231 Tm (Dog retrieves) Tj T* ET
+.788235 .827451 .847059 RG
+.788235 .827451 .847059 rg
+1.6 w
+n 623 260 m 697 260 l S
+n 697 260 m 691.5973 262.6098 l 691.5973 257.3902 l h
+f*
+.239216 .560784 .541176 rg
+n
+727 260 m
+727 267.1797 721.1797 273 714 273 c
+706.8203 273 701 267.1797 701 260 c
+701 252.8203 706.8203 247 714 247 c
+721.1797 247 727 252.8203 727 260 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 711.22 256.5 Tm (7) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F2 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 695.907 231 Tm (Next Duck) Tj T* ET
+.956863 .964706 .968627 rg
+.788235 .827451 .847059 RG
+n
+43 58 m
+749 58 l
+753.9752 58 758 62.0248 758 67 c
+758 207 l
+758 211.9752 753.9752 216 749 216 c
+43 216 l
+38.0248 216 34 211.9752 34 207 c
+34 67 l
+34 62.0248 38.0248 58 43 58 c
+h
+B*
+.12549 .211765 .294118 rg
+n
+43 191 m
+749 191 l
+753.9752 191 758 195.0248 758 200 c
+758 207 l
+758 211.9752 753.9752 216 749 216 c
+43 216 l
+38.0248 216 34 211.9752 34 207 c
+34 200 l
+34 195.0248 38.0248 191 43 191 c
+h
+f*
+n 34 191 724 12 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 44 200 Tm (CHANGE -> CHECK) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 686.925 200 Tm (Run after every row) Tj T* ET
+.356863 .419608 .45098 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 44 178 Tm (I CHANGE) Tj T* ET
+BT 1 0 0 1 192 178 Tm (I DO) Tj T* ET
+BT 1 0 0 1 444 178 Tm (I SHOULD SEE) Tj T* ET
+BT 1 0 0 1 638 178 Tm (CHECKED) Tj T* ET
+1 1 1 rg
+n 40 156 712 20 re f*
+.14902 .196078 .219608 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 44 161 Tm (Duck.update\(\)) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 192 161 Tm (Move or bounce) Tj T* ET
+BT 1 0 0 1 444 161 Tm (The target changes position) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 638 160 Tm ([ ]) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 44 139 Tm (Duck.startFalling\(\)) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 192 139 Tm (Click the target) Tj T* ET
+BT 1 0 0 1 444 139 Tm (The target falls to the ground) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 638 138 Tm ([ ]) Tj T* ET
+1 1 1 rg
+n 40 112 712 20 re f*
+.14902 .196078 .219608 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 44 117 Tm (Dog.update\(\)) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 192 117 Tm (Move toward targetX) Tj T* ET
+BT 1 0 0 1 444 117 Tm (The Dog retrieves the target) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 638 116 Tm ([ ]) Tj T* ET
+.14902 .196078 .219608 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 44 95 Tm (Frame.java) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 192 95 Tm (Declare and add Duck) Tj T* ET
+BT 1 0 0 1 444 95 Tm (The next target appears) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 638 94 Tm ([ ]) Tj T* ET
+1 1 1 rg
+n 40 68 712 20 re f*
+.14902 .196078 .219608 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 44 73 Tm (GameWorld.paint\(g\)) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 192 73 Tm (Draw layers) Tj T* ET
+BT 1 0 0 1 444 73 Tm (Scenery stays behind objects) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 638 72 Tm ([ ]) Tj T* ET
+.12549 .211765 .294118 rg
+n
+41 22 m
+751 22 l
+754.8696 22 758 25.1304 758 29 c
+758 39 l
+758 42.8696 754.8696 46 751 46 c
+41 46 l
+37.1304 46 34 42.8696 34 39 c
+34 29 l
+34 25.1304 37.1304 22 41 22 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 46 31 Tm (SAVE -> RUN FRAME -> TEST ONE BEHAVIOR -> RECORD WHAT YOU SEE) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 605.936 31 Tm (Small changes make debugging easier.) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 792 612 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.917647 0.968627 0.960784 rg
+n
+290 332 206 100 re
+f*
+0.356863 0.419608 0.45098 rg
+BT
+/F2-0 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 300 413 Tm
+(THE WORLD MANAGES OBJECTS) Tj
+T*
+ET
+0.14902 0.196078 0.219608 rg
+BT
+/F1-0 8.4 Tf
+10.08 TL
+ET
+BT
+1 0 0 1 300 398 Tm
+(Stores duck1\054 duck2\054 and duck3\056) Tj
+T*
+ET
+0.12549 0.211765 0.294118 rg
+BT
+/F3-0 7.1 Tf
+8.52 TL
+ET
+BT
+1 0 0 1 300 384 Tm
+(duck1\056update\050\051\073) Tj
+T*
+ET
+BT
+1 0 0 1 300 371 Tm
+(duck2\056update\050\051\073) Tj
+T*
+ET
+BT
+1 0 0 1 300 358 Tm
+(duck3\056update\050\051\073) Tj
+T*
+ET
+0.14902 0.196078 0.219608 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 300 344 Tm
+(Draws scenery\054 Ducks\054 Dog\054 and lives\056) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 792 612 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.917647 0.968627 0.960784 rg
+n
+290 332 206 100 re
+f*
+0.356863 0.419608 0.45098 rg
+BT
+/F2-1 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 300 413 Tm
+(THE WORLD MANAGES OBJECTS) Tj
+T*
+ET
+0.14902 0.196078 0.219608 rg
+BT
+/F1-1 8.4 Tf
+10.08 TL
+ET
+BT
+1 0 0 1 300 398 Tm
+(Stores duck1\054 duck2\054 and duck3\056) Tj
+T*
+ET
+0.12549 0.211765 0.294118 rg
+BT
+/F3-1 7.1 Tf
+8.52 TL
+ET
+BT
+1 0 0 1 300 384 Tm
+(duck1\056update\050\051\073) Tj
+T*
+ET
+BT
+1 0 0 1 300 371 Tm
+(duck2\056update\050\051\073) Tj
+T*
+ET
+BT
+1 0 0 1 300 358 Tm
+(duck3\056update\050\051\073) Tj
+T*
+ET
+0.14902 0.196078 0.219608 rg
+BT
+/F1-1 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 300 344 Tm
+(Draws scenery\054 Ducks\054 Dog\054 and lives\056) Tj
+T*
+ET
+0.239216 0.560784 0.541176 RG
+1.3 w
+n
+298 330 m
+488 330 l
+493.528 330 498 334.472 498 340 c
+498 452 l
+498 457.528 493.528 462 488 462 c
+298 462 l
+292.472 462 288 457.528 288 452 c
+288 340 l
+288 334.472 292.472 330 298 330 c
+h
+S
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000097 00000 n 
+0000000156 00000 n 
+0000000205 00000 n 
+0000000524 00000 n 
+0000014877 00000 n 
+0000014984 00000 n 
+0000015091 00000 n 
+0000015198 00000 n 
+0000015310 00000 n 
+0000015423 00000 n 
+0000015536 00000 n 
+0000015642 00000 n 
+0000015748 00000 n 
+0000015854 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+15970
+%%EOF
