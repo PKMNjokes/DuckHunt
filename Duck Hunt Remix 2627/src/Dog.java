@@ -18,7 +18,7 @@ public class Dog extends Sprite {
     private boolean retrievedDuck = false;
 
     public Dog() {
-        super("dog1.png", 40, GameWorld.GROUND_TOP - DOG_HEIGHT,
+        super("Dog_catch.png", 40, GameWorld.GROUND_TOP - DOG_HEIGHT,
                 DOG_WIDTH, DOG_HEIGHT);
 
         homeX = x;

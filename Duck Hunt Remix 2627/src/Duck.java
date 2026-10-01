@@ -27,7 +27,7 @@ public class Duck extends Sprite {
 
     public Duck(int startX, int startY) {
         // Change duck.gif to your own Halloween or fall image later.
-        super("duck.gif", startX, startY, 90, 90);
+        super("Ghost_fly.gif", startX, startY, 90, 90);
 
         homeX = startX;
         homeY = startY;
