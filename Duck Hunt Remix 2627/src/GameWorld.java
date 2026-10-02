@@ -20,8 +20,8 @@ public class GameWorld {
     private Duck currentDuck;
     private Dog dog;
     private Tree tree = new Tree();
-    private Bush bush1 = new Bush(90, GROUND_TOP - 44, 130, 55);
-    private Bush bush2 = new Bush(510, GROUND_TOP - 38, 120, 49);
+    private Bush bush1 = new Bush();
+    private Bush bush2 = new Bush();
     private Background background = new Background();
     private Foreground foreground = new Foreground();
 

@@ -4,6 +4,6 @@
  */
 public class Tree extends Sprite {
     public Tree() {
-        super("tree.png", 690, 120, 173, 260);
+        super("ScareCrow.png", 50, 170, 173, 260);
     }
 }
