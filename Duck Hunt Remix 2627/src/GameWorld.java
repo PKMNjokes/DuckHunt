@@ -19,11 +19,11 @@ public class GameWorld {
     private Duck duck3;
     private Duck currentDuck;
     private Dog dog;
-    private Background background = new Background();
-    private Foreground foreground = new Foreground();
     private Tree tree = new Tree();
     private Bush bush1 = new Bush(90, GROUND_TOP - 44, 130, 55);
     private Bush bush2 = new Bush(510, GROUND_TOP - 38, 120, 49);
+    private Background background = new Background();
+    private Foreground foreground = new Foreground();
 
     private int stars = 5;
     private boolean finished = false;
@@ -82,7 +82,6 @@ public class GameWorld {
     public void paint(Graphics g) {
         background.paint(g);
         tree.paint(g);
-        foreground.paint(g);
         bush1.paint(g);
         bush2.paint(g);
 
@@ -97,6 +96,7 @@ public class GameWorld {
         }
 
         dog.paint(g);
+        foreground.paint(g);
 
         g.setColor(Color.BLACK);
         g.setFont(new Font("SansSerif", Font.BOLD, 20));

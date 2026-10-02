@@ -20,9 +20,11 @@ public class Duck extends Sprite {
     private boolean active = false;
     private boolean falling = false;
     private boolean landed = false;
+    int dFlyX = 0;
+    int FlyY = 0;
 
     public Duck() {
-        this(150, 120);
+        this(32, 32);
     }
 
     public Duck(int startX, int startY) {
@@ -31,6 +33,7 @@ public class Duck extends Sprite {
 
         homeX = startX;
         homeY = startY;
+                
     }
 
     /**
@@ -38,6 +41,9 @@ public class Duck extends Sprite {
      * STEP 2: add the bouncing rules.
      * STEP 3: add the falling rules.
      */
+    
+    
+    
     public void update() {
         if (!active) {
             return;
@@ -45,24 +51,33 @@ public class Duck extends Sprite {
 
         if (falling) {
             // STEP 3: Uncomment and complete the falling code.
-            // y = y + fallSpeed;
-            // fallSpeed = fallSpeed + 1;
-            // if (y + height >= GameWorld.GROUND_TOP) {
-            //     y = GameWorld.GROUND_TOP - height;
-            //     landed = true;
-            // }
+        	//Eventually change the sprite to the falling sprite
+             y = y + fallSpeed;
+             fallSpeed = fallSpeed + 1;
+             if (y + height >= GameWorld.GROUND_TOP + height+50) {
+                 landed = true;
+                 y = GameWorld.WORLD_HEIGHT + 50;
+             }
 
             return;
         }
 
         // STEP 1: Uncomment these lines to move the Duck.
-        // x = x + dx;
-        // y = y + dy;
+         x = x + dx;
+         y = y + dy;
 
         // STEP 2: Add if statements that bounce the Duck off the edges.
         // Hint: reverse a direction by changing dx to -dx or dy to -dy.
         // Hint: GameWorld.WORLD_WIDTH is the width of the game.
         // Hint: GameWorld.GROUND_TOP is the top of the ground.
+         
+         if(x + width + 50 >= GameWorld.WORLD_WIDTH || x <= 50) {
+        	 dx *= -1;
+         }
+         if(y + height >= GameWorld.GROUND_TOP || y <= 50) {
+        	 dy *= -1;
+         }
+         
     }
 
     /**
@@ -71,8 +86,8 @@ public class Duck extends Sprite {
      */
     public void startFalling() {
         if (active && !falling) {
-            // falling = true;
-            // fallSpeed = 2;
+             falling = true;
+             fallSpeed = 2;
         }
     }
 

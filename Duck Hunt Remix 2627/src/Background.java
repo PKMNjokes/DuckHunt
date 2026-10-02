@@ -7,7 +7,7 @@ import java.awt.Graphics;
  */
 public class Background extends Sprite {
     public Background() {
-        super("Background.png", 0, GameWorld.GROUND_TOP,
-                GameWorld.WORLD_WIDTH, GameWorld.WORLD_HEIGHT - GameWorld.GROUND_TOP);
-    }
+        super("Background.png", 0, 0,
+                GameWorld.WORLD_WIDTH, GameWorld.WORLD_HEIGHT);
+        }
 }

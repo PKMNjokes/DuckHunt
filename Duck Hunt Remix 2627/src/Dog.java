@@ -14,6 +14,7 @@ public class Dog extends Sprite {
     private final int homeX;
     private final int homeY;
     private int targetX;
+    private int targetY;
     private boolean retrieving = false;
     private boolean retrievedDuck = false;
 
@@ -45,8 +46,19 @@ public class Dog extends Sprite {
      *   false.
      */
     public void update() {
-        if (!retrieving) {
+        if (retrieving) {
+        	if(x< targetX) {
+        		x -= 2;
+        	}
+        	if(x> targetX) {
+        		x += 2;
+        	}
+            if(x == targetX) {
+            	retrieving = false;
+            	retrievedDuck = true;
+            }
             return;
+
         }
 
         // Write your Dog movement code here.
