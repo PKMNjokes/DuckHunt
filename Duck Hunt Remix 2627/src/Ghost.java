@@ -4,7 +4,7 @@
  * Sprite provides the graphics code. Your job is to make the Duck move,
  * bounce, fall, and reset.
  */
-public class Duck extends Sprite {
+public class Ghost extends Sprite {
     // ===============================
     // STUDENT SETTINGS
     // ===============================
@@ -23,11 +23,11 @@ public class Duck extends Sprite {
     int dFlyX = 0;
     int FlyY = 0;
 
-    public Duck() {
-        this(32, 32);
+    public Ghost() {
+        this(64, 64);
     }
 
-    public Duck(int startX, int startY) {
+    public Ghost(int startX, int startY) {
         // Change duck.gif to your own Halloween or fall image later.
         super("Ghost_fly.gif", startX, startY, 90, 90);
 

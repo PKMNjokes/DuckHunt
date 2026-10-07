@@ -5,8 +5,8 @@
  * Dog move toward that location and report when the retrieval is complete.
  */
 public class Dog extends Sprite {
-    private static final int DOG_WIDTH = 69;
-    private static final int DOG_HEIGHT = 94;
+    private static final int DOG_WIDTH = 120;
+    private static final int DOG_HEIGHT = 200;
 
     // STUDENT SETTING
     private int speed = 6;
@@ -46,11 +46,11 @@ public class Dog extends Sprite {
      *   false.
      */
     public void update() {
-        if (retrieving) {
-        	if(x< targetX) {
-        		x -= 2;
-        	}
+        if (retrieving) { 
         	if(x> targetX) {
+        		x += 2;
+        	}
+        	if(x< targetX) {
         		x += 2;
         	}
             if(x == targetX) {

@@ -7,21 +7,21 @@ import java.awt.Graphics;
  *
  * GameWorld stores three named Ducks, draws scenery and objects in layers,
  * and coordinates the Dog. Students should not edit this file for the core
- * assignment.
+ * assignment7
  */
 public class GameWorld {
-    public static final int WORLD_WIDTH = 900;
+    public static final int WORLD_WIDTH =900;
     public static final int WORLD_HEIGHT = 600;
-    public static final int GROUND_TOP = 370;
+    public static final int GROUND_TOP = 320;
 
-    private Duck duck1;
-    private Duck duck2;
-    private Duck duck3;
-    private Duck currentDuck;
+    private Ghost duck1;
+    private Ghost duck2;
+    private Ghost duck3;
+    private Ghost currentDuck;
     private Dog dog;
-    private Tree tree = new Tree();
-    private Bush bush1 = new Bush();
-    private Bush bush2 = new Bush();
+    private Scarecrow scarecrow = new Scarecrow();
+    private Pum bush1 = new Pum();
+    private Pum bush2 = new Pum();
     private Background background = new Background();
     private Foreground foreground = new Foreground();
 
@@ -33,13 +33,13 @@ public class GameWorld {
         this.dog = dog;
     }
 
-    public void addDuck(Duck duck) {
+    public void addDuck(Ghost ghost) {
         if (duck1 == null) {
-            duck1 = duck;
+            duck1 = ghost;
         } else if (duck2 == null) {
-            duck2 = duck;
+            duck2 = ghost;
         } else if (duck3 == null) {
-            duck3 = duck;
+            duck3 = ghost;
         }
     }
 
@@ -81,7 +81,7 @@ public class GameWorld {
 
     public void paint(Graphics g) {
         background.paint(g);
-        tree.paint(g);
+        scarecrow.paint(g);
         bush1.paint(g);
         bush2.paint(g);
 
