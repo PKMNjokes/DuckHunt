@@ -24,19 +24,21 @@ public class Frame extends JPanel implements ActionListener {
     private Ghost duck1 = new Ghost(150, 120);
 
     // STEP 6: Uncomment these one at a time, or create your own Ducks.
-    // private Duck duck2 = new Duck(380, 180);
-    // private Duck duck3 = new Duck(620, 100);
+     private Ghost duck2 = new Ghost(380, 180);
+     private Ghost duck3 = new Ghost(620, 100);
 
     private Dog dogObject = new Dog();
     private GameWorld world = new GameWorld(dogObject);
 
-    Music soundLazer = new Music("lazer.wav", false);
+    Music soundLazer = new Music("sfx_wpn_lazer9.wav", false);
+    Music bang = new Music("bang.wav", false);
+
     
     public Frame() {
         // STEP 6: Add each Duck to the world after declaring it above.
         world.addDuck(duck1);
-        // world.addDuck(duck2);
-        // world.addDuck(duck3);
+        world.addDuck(duck2);
+        world.addDuck(duck3);
 
         world.start();
 
@@ -45,6 +47,7 @@ public class Frame extends JPanel implements ActionListener {
             @Override
             public void mousePressed(MouseEvent event) {
                 world.handleClick(event.getX(), event.getY());
+                soundLazer.play();
             }
         });
 

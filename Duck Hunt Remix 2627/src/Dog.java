@@ -6,7 +6,7 @@
  */
 public class Dog extends Sprite {
     private static final int DOG_WIDTH = 120;
-    private static final int DOG_HEIGHT = 200;
+    private static final int DOG_HEIGHT = 220;
 
     // STUDENT SETTING
     private int speed = 6;
@@ -19,20 +19,21 @@ public class Dog extends Sprite {
     private boolean retrievedDuck = false;
 
     public Dog() {
-        super("Dog_catch.png", 40, GameWorld.GROUND_TOP - DOG_HEIGHT,
+        super("Dog_catch.png", 300, GameWorld.GROUND_TOP-150,
                 DOG_WIDTH, DOG_HEIGHT);
 
+        //groundtop-50 is dog popping up
+        
         homeX = x;
         homeY = y;
     }
 
     /** This method is provided so GameWorld can begin a retrieval. */
     public void startRetrieving(int duckX) {
-        if (!retrieving) {
+        if (retrieving) {
             targetX = duckX;
-            retrieving = true;
             retrievedDuck = false;
-            changePicture("dog2.png");
+            changePicture("Dog_catch.png");
         }
     }
 
@@ -46,18 +47,13 @@ public class Dog extends Sprite {
      *   false.
      */
     public void update() {
-        if (retrieving) { 
-        	if(x> targetX) {
-        		x += 2;
+        if (!retrieving) { 
+        	x = targetX;
+        	y -= 10;
+        	if(y < GameWorld.GROUND_TOP-150) {
+        		y = GameWorld.GROUND_TOP-150;
         	}
-        	if(x< targetX) {
-        		x += 2;
-        	}
-            if(x == targetX) {
-            	retrieving = false;
-            	retrievedDuck = true;
-            }
-            return;
+        	return;
 
         }
 
