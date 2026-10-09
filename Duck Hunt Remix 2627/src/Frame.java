@@ -25,7 +25,7 @@ public class Frame extends JPanel implements ActionListener {
 
     // STEP 6: Uncomment these one at a time, or create your own Ducks.
      private Ghost duck2 = new Ghost(380, 180);
-     private Ghost duck3 = new Ghost(620, 100);
+//     private Ghost duck3 = new Ghost(620, 100);
 
     private Dog dogObject = new Dog();
     private GameWorld world = new GameWorld(dogObject);
@@ -38,7 +38,7 @@ public class Frame extends JPanel implements ActionListener {
         // STEP 6: Add each Duck to the world after declaring it above.
         world.addDuck(duck1);
         world.addDuck(duck2);
-        world.addDuck(duck3);
+//        world.addDuck(duck3);
 
         world.start();
 
